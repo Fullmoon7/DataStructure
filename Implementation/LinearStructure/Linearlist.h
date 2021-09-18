@@ -2,7 +2,7 @@
 	description of abstract data type
 	linear list
 */
-#define Elementtype
+#define Elementtype int
 typedef struct LNode *List;
 struct LNode
 {
